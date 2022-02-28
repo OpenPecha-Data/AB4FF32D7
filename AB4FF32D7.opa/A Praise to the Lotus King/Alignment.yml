@@ -1,0 +1,16 @@
+segment_sources:
+  PA599442E:
+    type: origin_type
+    relation: translation
+    language: en
+  P7FCBE252:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f3968a0d61344fba82df4a3ba905b858:
+    PA599442E: 5d4cb187714c4acf9988e6a6c33ec94c
+    P7FCBE252: 5c7fcc81afc84873ab8625b69f681e9f
+  2442a0b98907432ea5f41084047c7ce8:
+    PA599442E: 6effd52b5ae3410fbcc34caa73464cdc
+    P7FCBE252: b36c122ced3f41ce849e72849bd68cd5
